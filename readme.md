@@ -4,7 +4,7 @@ All Weeks streamed on Twitch : Twitch.tv/botbreeze
 ```
 - Week 0 : Complete
 - Week 1 : Complete
-- Week 2 : Incomplete
+- Week 2 : Complete
 - Week 3 : Incomplete
 - Week 4 : Incomplete
 - Week 5 : Incomplete
